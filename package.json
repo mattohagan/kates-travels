@@ -1,0 +1,25 @@
+{
+  "name": "kates-travels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "node-tweet-stream": "^1.9.1",
+    "dotenv": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattohagan/kates-travels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattohagan/kates-travels/issues"
+  },
+  "homepage": "https://github.com/mattohagan/kates-travels#readme"
+}
